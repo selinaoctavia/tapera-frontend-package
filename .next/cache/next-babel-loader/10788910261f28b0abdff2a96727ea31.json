@@ -1,0 +1,1 @@
+{"ast":null,"code":"export var TESTREDUX = 'TESTREDUX';","map":{"version":3,"sources":["G:/TAPERA/nextworkspace/tapera-frontend-package-v2/redux/constants/TestConstants.ts"],"names":["TESTREDUX"],"mappings":"AAAA,OAAO,IAAMA,SAAS,GAAG,WAAlB","sourcesContent":["export const TESTREDUX = 'TESTREDUX';"]},"metadata":{},"sourceType":"module"}

@@ -1,0 +1,1 @@
+{"ast":null,"code":"export const NOWPLAYINGENDPOINT = 'discover/movie';","map":{"version":3,"sources":["G:/TAPERA/nextworkspace/tapera-frontend-package-v2/configurations/MovieConfig.ts"],"names":["NOWPLAYINGENDPOINT"],"mappings":"AAAA,OAAO,MAAMA,kBAAkB,GAAG,gBAA3B","sourcesContent":["export const NOWPLAYINGENDPOINT = 'discover/movie';\r\n"]},"metadata":{},"sourceType":"module"}
